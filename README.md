@@ -1,4 +1,4 @@
-# Tiling the Diamond
+# Arctic Circle Theorem
 
 Trying out a coding challange from Mathologer in this video:
 
